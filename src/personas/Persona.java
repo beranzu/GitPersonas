@@ -7,7 +7,8 @@ import java.util.regex.Pattern;
  * @version 2
  */
 public class Persona {
-
+	
+	// Declaracion variables
     private String dni;
     private String nombre;
     private String apellidos;
